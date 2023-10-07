@@ -5,8 +5,8 @@ It's a website for wallet to wallet transfer of ethereum.
 
 A JavaScript Application that uses
 
-Vite
-Tailwind CSS
+.Vite
+.Tailwind CSS
 Solidity for Smart_Contract for Ethereum Blockchain
 Properties
 
